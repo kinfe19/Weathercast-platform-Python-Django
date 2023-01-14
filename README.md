@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
-#sample image
+# sample image
 ![image](https://user-images.githubusercontent.com/81519060/212445674-9fd01014-7a7f-4693-8ba7-ba83b6a80fd9.png)
 
 ## Tools
