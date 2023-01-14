@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
-# sample image
+# Screenshots of the Project
 ![image](https://user-images.githubusercontent.com/81519060/212445674-9fd01014-7a7f-4693-8ba7-ba83b6a80fd9.png)
 
 ## Tools
@@ -47,10 +47,7 @@ python manage.py runserver
 * Django
 * SQLite 3
 
-## Screenshots of the Project
-<p align="center">
-  <img width="660" height="300" src="static/ss/a.png">
-  <img width="660" height="300" src="static/ss/b.png">
-</p>
+
+
 
 
