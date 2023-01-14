@@ -1,4 +1,4 @@
-Requests==2.11.1
+Requests
 asgiref==3.2.10
 certifi==2020.6.20
 chardet==3.0.4
